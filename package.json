@@ -1,6 +1,6 @@
 {
   "name": "typescript-mocha-kata-seed",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Seed project for TDD code katas on TypeScript and mocha",
   "main": "index.js",
   "scripts": {
