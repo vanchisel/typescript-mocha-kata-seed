@@ -4,6 +4,10 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 
 ## [Unreleased]
 
+## [1.2.0] - 2016-06-18
+### Changed
+- TypeScript compile options defined in new tsconfig.json instead of being passed as arguments to tsc command.
+
 ## [1.1.0] - 2016-06-18
 ### Changed
 - Replaced deprecated TSD with Typings.
