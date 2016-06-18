@@ -4,7 +4,7 @@
   "description": "Seed project for TDD code katas on TypeScript and mocha",
   "main": "index.js",
   "scripts": {
-    "postinstall": "tsd install",
+    "postinstall": "typings install",
     "precompile": "rimraf app/**/*.js test/**/*.js",
     "compile": "tsc --experimentalDecorators --target es5 --module commonjs --noImplicitAny",
     "prepublish": "npm run compile app/*.ts",
@@ -18,7 +18,7 @@
     "chai": "~3.5.0",
     "mocha": "~2.4.5",
     "rimraf": "~2.5.2",
-    "tsd": "~0.6.5",
-    "typescript": "~1.8.10"
+    "typescript": "~1.8.10",
+    "typings": "~1.3.0"
   }
 }
