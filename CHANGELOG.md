@@ -6,7 +6,8 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 
 ## [1.3.0] - 2017-05-08
 ### Changed
-- Updated to use TypesScript 2.2.0 and Mocha 3.2.0. 
+- Updated to use TypesScript 2.2.0 and Mocha 3.2.0. Installing typings direclty with npm and removed references.
+http://stackoverflow.com/questions/36013174/importing-node-and-express-with-typings-in-typescript
 
 ## [1.2.0] - 2016-06-18
 ### Changed
