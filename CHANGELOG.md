@@ -4,6 +4,12 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 
 ## [Unreleased]
 
+## [1.4.0] - 2017-06-29
+### Changed
+- Using ts-node.
+- Simplified npm scripts.
+- Added coverage to mocha tests.
+
 ## [1.3.0] - 2017-05-08
 ### Changed
 - Updated to use TypesScript 2.2.0 and Mocha 3.2.0. Installing typings direclty with npm and removed references.
