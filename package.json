@@ -10,6 +10,7 @@
     "test": "nyc mocha"
   },
   "author": "paucls",
+  "homepage": "https://github.com/paucls/typescript-mocha-kata-seed",
   "license": "ISC",
   "private": true,
   "dependencies": {},
