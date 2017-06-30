@@ -13,7 +13,6 @@
   "homepage": "https://github.com/paucls/typescript-mocha-kata-seed",
   "license": "ISC",
   "private": true,
-  "dependencies": {},
   "devDependencies": {
     "@types/chai": "~3.5.2",
     "@types/mocha": "~2.2.41",
